@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Clion_Aula.dir/main.c.o CMakeFiles/Clion_Aula.dir/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio3/main.c.o -o Clion_Aula 

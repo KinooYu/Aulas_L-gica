@@ -1,0 +1,3 @@
+C:/Users/educo/Documents/exercicio9/cmake-build-debug/CMakeFiles/exercicio9.dir
+C:/Users/educo/Documents/exercicio9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/educo/Documents/exercicio9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

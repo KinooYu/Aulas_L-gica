@@ -1,0 +1,3 @@
+/home/kinoyu/Documents/Aulas_Lógica/Lista 2 prova/exercicio5/cmake-build-debug/CMakeFiles/exercicio5.dir
+/home/kinoyu/Documents/Aulas_Lógica/Lista 2 prova/exercicio5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kinoyu/Documents/Aulas_Lógica/Lista 2 prova/exercicio5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir
+/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/educo/Documents/Aulas_Logica/Lista de exercicio 4 do 4/cmake-build-debug/CMakeFiles/Lista_de_exercicio_4_do_4.dir
+C:/Users/educo/Documents/Aulas_Logica/Lista de exercicio 4 do 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/educo/Documents/Aulas_Logica/Lista de exercicio 4 do 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

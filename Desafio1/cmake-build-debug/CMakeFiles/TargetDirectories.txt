@@ -1,0 +1,3 @@
+/home/kinoyu/Documents/Aulas_Lógica/Desafio1/cmake-build-debug/CMakeFiles/Desafio1.dir
+/home/kinoyu/Documents/Aulas_Lógica/Desafio1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kinoyu/Documents/Aulas_Lógica/Desafio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

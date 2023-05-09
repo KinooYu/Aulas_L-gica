@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Desafio2" targetName="Desafio2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91adb520-c942-4974-a480-0a5314c86b1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Desafio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/.idea/Aulas_Logica_P_Provas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio10/.idea/exercicio10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio11/.idea/exercicio11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio12/.idea/exercicio12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio13/.idea/exercicio13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio14/.idea/exercicio14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio15/.idea/exercicio15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio16/.idea/exercicio16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio17/.idea/exercicio17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio18/.idea/exercicio18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio19/.idea/exercicio19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio2/.idea/Clion Aula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio20/.idea/exercicio20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio3/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio4/.idea/exercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio5/.idea/exercicio 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio6/.idea/exercicio6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio7/.idea/exercicio7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio8/.idea/exercicio8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista 1 prova/exercicio9/.idea/exercicio9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/.idea/Aulas_Logica_P_Provas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/.idea/exercicio10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/cache-v2-511b17a4d20f9c3892e4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f83a3e2e96d1d0148f46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d8d5aff445b2d858c84e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T12-37-06-0385.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/target-exercicio10-Debug-0d43c6c3e651b86d4ec5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/exercicio10.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/cmake-build-debug/exercicio10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio10/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/.idea/exercicio11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a30a14f6fb025768a9a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7782913ef5226ad1c823.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c7ee97ff5bd0683083f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T13-08-23-0747.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/target-exercicio11-Debug-ecbd0b5740b154b2c8bd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/exercicio11.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/cmake-build-debug/exercicio11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio11/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/.idea/exercicio12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/cache-v2-947cb6128620e165d439.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-11e02734259552182883.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-14609d7f9002db690325.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T13-35-59-0152.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/target-exercicio12-Debug-83d6ca7f8b2d5922350f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/exercicio12.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/cmake-build-debug/exercicio12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio12/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/.idea/exercicio13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f3f136e01fd08f7dcd4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-29b9e3f003493001ce09.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-923da6f62bcea8d940c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T13-41-36-0070.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/target-exercicio13-Debug-6a90512b4381fad07314.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/exercicio13.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/cmake-build-debug/exercicio13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio13/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/.idea/exercicio14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7f92670247571c8af30c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ef7483f79be0fec05e62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-51ee320d57409cfe478f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T13-45-09-0221.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/target-exercicio14-Debug-addf69e64315c92728f1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/exercicio14.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/cmake-build-debug/exercicio14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio14/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/.idea/exercicio15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b5f218076f5b7adc26e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4b607673afe30c444d87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0f134d5773a60e595c35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T14-25-10-0008.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/target-exercicio15-Debug-f0518e1acc13055356c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/exercicio15.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/cmake-build-debug/exercicio15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio15/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/.idea/exercicio16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ebfcc44602b11b604542.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9476942f51d7ee044bcf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4e38e02eb20369fdd107.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T14-32-39-0376.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/target-exercicio16-Debug-c037138c36a128c0ca9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/exercicio16.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/cmake-build-debug/exercicio16.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio16/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/.idea/exercicio17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ffc77ab33c0bf7c25135.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f791ab37a740a7f70f1e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-97f021d8db7e6f82746b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T14-45-54-0428.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/target-exercicio17-Debug-77c52fbf3ca55d6e4463.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/exercicio17.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/cmake-build-debug/exercicio17.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio17/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/.idea/exercicio18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/cache-v2-cde4f698a229f3bf2c4c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-fce4b6b9d8700ff650fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d71676e8d20452a6d3ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T15-03-45-0712.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/target-exercicio18-Debug-5d48860e113b47020abd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/exercicio18.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/cmake-build-debug/exercicio18.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio18/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/.idea/exercicio19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/cache-v2-51e342cca8964f0f2d2c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2cfef27458e962d044e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e0cc9af132b0e4b352b1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T15-14-47-0653.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/target-exercicio19-Debug-922ad04989bae01ff1a1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/exercicio19.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/cmake-build-debug/exercicio19.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio19/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/.idea/Clion Aula.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a501412254325ec6acfa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-382ca9268aa4a3bd3000.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9697087705d8ebc4ac84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-21T11-27-17-0373.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/target-Clion_Aula-Debug-0cac06965c0c882b1193.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2eb6fbcaf2e27fb4f19c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio3/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/home/kinoyu/Documents/Aulas_Lógica/Aulas_Logica_P_Provas/exercicio3/main.c.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/main.c.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Clion_Aula.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/Clion_Aula.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/Clion_Aula.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/.idea/exercicio20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e2147a63c927bac89430.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-811ba2650379af719a7b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-76281dbca1ab7549ca15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T15-25-50-0503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/target-exercicio20-Debug-5e0d96de8b953e75fe69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/exercicio20.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/cmake-build-debug/exercicio20.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio20/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-840d118e7083f5cdfb24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-40ed23526bb9ff114c82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5bd208b43d346a97dd9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T11-25-37-0861.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/target-untitled-Debug-ecf961d30c5057e94691.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/cmake-build-debug/untitled.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/.idea/exercicio4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8fd56a66f660cceb92f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-40b38cda3d7e268f289a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cecf6e338ea7b899f357.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T11-34-25-0950.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/target-exercicio4-Debug-e4de2c25b84d711c7f4c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/exercicio4.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/cmake-build-debug/exercicio4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio4/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/.idea/exercicio 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0cafc6e160c9369ee2ba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-52db4a68f5157e40b168.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-dbd48676ad06dc1ab1d3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T11-47-48-0296.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/target-exercicio_5-Debug-75ca0ebf9fffcf449d27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/exercicio_5.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/cmake-build-debug/exercicio_5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio5/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/.idea/exercicio6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/cache-v2-67de6415d2c1c536d08d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e79c310677957ca7206c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-511129c8c0f2c9f2f60f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T11-58-20-0567.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/target-exercicio6-Debug-63682bf5cc79cf587585.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/exercicio6.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/cmake-build-debug/exercicio6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio6/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/.idea/exercicio7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/cache-v2-becfaab365a8b8399f94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-91a9aadfaf1dee528ddd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f641d7c3816a0dafdb7b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T12-03-10-0648.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/target-exercicio7-Debug-fdcccb9785ae0a69bac5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/exercicio7.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/cmake-build-debug/exercicio7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio7/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/.idea/exercicio8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2b1d107b79086c043ec2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-175df1ac62343ae745d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ae523596e343c65bd2ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T12-08-13-0549.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/target-exercicio8-Debug-82f6b718441c5b67c7d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/exercicio8.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/cmake-build-debug/exercicio8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio8/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/.idea/exercicio9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f966c1841388516f0d8a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-df85512efaba6507911e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-38929844649e65455209.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-14T12-14-00-0318.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/target-exercicio9-Debug-0da9f1607f5f72d3dca2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-06d48e123e77e4b7267b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/exercicio9.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/cmake-build-debug/exercicio9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_Logica_P_Provas/exercicio9/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2aa5a51c69c53e5a01f0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-464e1db358d989af0b68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3b6c23a61efa8492e01c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-24T01-57-23-0304.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/Desafio1.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/Desafio1.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/Desafio1" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/Desafio1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Desafio1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="2PWfcmnoTJJYEvPACYvwcGUNk7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Desafio2" TARGET_NAME="Desafio2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Desafio2" RUN_TARGET_NAME="Desafio2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91adb520-c942-4974-a480-0a5314c86b1d" name="Changes" comment="" />
+      <created>1683577839608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683577839608</updated>
+      <workItem from="1683577840792" duration="7057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

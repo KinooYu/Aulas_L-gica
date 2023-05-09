@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/kinoyu/Documents/Aulas_L\u00f3gica/Desafio1/cmake-build-debug",
-		"source" : "/home/kinoyu/Documents/Aulas_L\u00f3gica/Desafio1"
+		"build" : "/home/kinoyu/Documents/GitHub/Aulas_Logica/Desafio1/cmake-build-debug",
+		"source" : "/home/kinoyu/Documents/GitHub/Aulas_Logica/Desafio1"
 	},
 	"version" : 
 	{

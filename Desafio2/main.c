@@ -3,59 +3,50 @@
 #include<time.h> //Usado para aprimorar a aleatoriedade da função rand para que o numero não seje o mesmo
 
 int main() {
-    int num, aleatorio, contador = 1;
+    int num, aleatorio, contador = 1, min = 0, max = 1000;
+    int entrada_valida = 0; // adicionando a variável para verificar a entrada
 
     //Iniciando a funcao de aleatoriedade
-    srand(time(NULL));/*Utilizado para iniciar a seed do srand com um numero de segundos que vem desde 1 de jan de 1970
-                                  assim deixando verdadeiramente aleatorio o numero do rand*/
+    srand(time(NULL));
     aleatorio = rand() % 1000 + 1;
 
-    printf("%d \n", aleatorio);//Só para eu saber qual o numero aleatorio para fins de teste
-
-    while (contador)//Fazendo um contador com o while, enquanto o a condiçao do if não for verdadeira ele vai continuar pedindo um numero a ele
-    {
-        printf("Digite um numero entre 1 e 1000:");
-        scanf("%d", &num);
-        if (num == aleatorio){//Vai ser executado ao o numero do usuario ser igual ao num aleatorio
+    while (entrada_valida == 0) {
+        printf("Digite um numero entre 1 e 1000: ");
+        if (scanf("%d", &num) != 1 || num > 1000) {
+            printf("Por favor digite um numero válido entre 1 e 1000!\n");
+            entrada_valida = 1;
+        } else if (num == aleatorio) {
             printf("Acertouuuu!\n");
-            break;//parando o loop do while
-        }
-        else if (num > aleatorio){
-            printf("O numero digitado é maior, %dº tentativa  continue tentando!\n", contador);
-        }
-        else if (contador > 15){
-            printf("Vocẽ atingiu o limite de tentativas!\n");
-            break;
-        }
-        else{
+            break; //parando o loop do while
+        } else if (num > aleatorio) {
+            printf("O numero digitado é maior, %dº tentativa continue tentando!\n", contador);
+            max = num;
+            printf("O numero está entre %d e %d\n", min, max);
+        } else {
             printf("O numero digitado é menor, %dº tentativa continue tentando!\n", contador);
+            min = num;
+            printf("O numero está entre %d e %d\n", min, max);
         }
         contador++;
     }
-
-    if(contador <= 15);
-    {
-        switch (contador) { //Usando o switch para teste, já que não uso muito ele mesmo, interessante como salva algumas linhas doque a versão anterior com IF
+    if (entrada_valida == 0) { // adicionando uma verificação para executar o switch-case somente se a entrada for válida
+        switch (contador) {
             case 1 ... 5:
-                printf("Sua classificação foi excelente, você acertou de %dº!!", contador);
+                printf("Sua classificação foi excelente, você acertou de %dº!!\n", contador);
                 break;
             case 6 ... 7:
-                printf("Sua classificação foi bom, você acertou de %dº!!", contador);
+                printf("Sua classificação foi bom, você acertou de %dº!!\n", contador);
                 break;
             case 8 ... 12:
-                printf("Sua classificação foi normal, você acertou de %dº!!", contador);
+                printf("Sua classificação foi normal, você acertou de %dº!!\n", contador);
                 break;
             case 13 ... 14:
-                printf("Sua classificação foi ruim, você acertou de %dº!!", contador);
-                break;
-            case 15:
-                printf("Sua classificação foi trágica, você acertou de %dº!!", contador);
+                printf("Sua classificação foi ruim, você acertou de %dº!!\n", contador);
                 break;
             default:
-                printf("Você não acertou nenhum");
+                printf("Sua classificação foi trágica, você acertou de %dº!!\n", contador);
                 break;
         }
     }
     return 0;
 }
-
